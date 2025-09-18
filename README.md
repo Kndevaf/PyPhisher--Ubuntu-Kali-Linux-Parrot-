@@ -1,7 +1,7 @@
 
  How to:
 
-### [+] Installation
+Installation
 
 ##### Install dependencies (git, python, php ssh)
 
@@ -62,8 +62,3 @@ iPhone     | Alpha (Recommended docker)
 MacOS      | Alpha (Recommended docker)
 Windows    | Unsupported (Use docker/virtual-box/vmware)
 BSD        | Never tested
-
-#### Options
-
-
-
